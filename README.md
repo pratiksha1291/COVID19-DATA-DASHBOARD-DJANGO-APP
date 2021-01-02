@@ -1,1 +1,1 @@
-# COVID19-DATA-DASHBOARD-DJANGO-APP
+A python django based project!!
